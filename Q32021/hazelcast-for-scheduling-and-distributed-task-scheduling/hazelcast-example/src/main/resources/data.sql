@@ -1,0 +1,12 @@
+INSERT INTO post (title, content)
+VALUES ('Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        'Vestibulum volutpat dapibus nunc eget aliquet. Cras et sodales felis, in tempus purus. Aenean at vestibulum justo. Sed gravida gravida quam quis suscipit. Maecenas id leo ipsum. Vivamus consectetur fringilla risus ut aliquam. Donec nisi elit, condimentum at sodales ut, dapibus at quam. Pellentesque eu blandit nulla.');
+INSERT INTO post (title, content)
+VALUES ('Curabitur nec scelerisque arcu',
+        'Donec scelerisque volutpat vehicula. Praesent eu leo malesuada, gravida nibh vitae, dictum odio. Ut venenatis magna id felis sollicitudin, sed aliquam magna placerat. In non ultricies tortor. Phasellus a elementum augue. Curabitur nec commodo mi, eu feugiat enim.');
+INSERT INTO post (title, content)
+VALUES ('Nunc vel accumsan libero',
+        'Praesent pulvinar posuere ante, tincidunt consequat tellus commodo non. Etiam vehicula sem at arcu porta vestibulum. Vivamus in lacus sit amet risus condimentum dignissim eget sit amet dolor. Suspendisse potenti. Donec a finibus urna, sit amet malesuada ligula. Aenean luctus ex vel velit iaculis rhoncus. Praesent sapien quam, blandit in pellentesque eu, pulvinar vitae eros. Donec sit amet laoreet sapien, vel finibus turpis. Maecenas eleifend ex nec erat porta tempus. Praesent ullamcorper justo eu rhoncus dictum. Proin ac neque vel tellus auctor cursus ut laoreet ex. Nunc ex magna, euismod in mauris eget, tempor commodo nunc.');
+INSERT INTO post (title, content)
+VALUES ('Nulla facilisi',
+        'Aenean erat purus, convallis quis luctus id, iaculis vel mauris. Praesent consequat sapien ac sollicitudin accumsan. Nunc faucibus volutpat efficitur. Etiam placerat tempus erat vitae accumsan. Ut porta volutpat volutpat. Suspendisse aliquam justo sit amet mauris varius faucibus. Vestibulum non dolor condimentum, rhoncus ex sed, scelerisque dolor. Quisque bibendum urna dui, eget euismod diam fermentum eget. Cras faucibus felis blandit nibh tincidunt pharetra. Sed hendrerit lobortis eros nec varius. Integer id tortor massa. Aenean non lacus eu magna venenatis blandit. Nullam nunc eros, dignissim id tempor nec, auctor eu ex. Vivamus porttitor gravida arcu, sit amet finibus orci posuere vel.');
